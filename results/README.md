@@ -56,9 +56,6 @@ These mappings can be used to:
 
 Contributions to improve or expand these mappings are welcome. Please submit a pull request with your proposed changes.
 
-## License
-
-[Specify the license under which this work is released]
 
 ## Acknowledgements
 
