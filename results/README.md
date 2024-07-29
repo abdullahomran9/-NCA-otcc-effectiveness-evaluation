@@ -16,7 +16,7 @@ This repository contains mappings of industrial control system (ICS) cybersecuri
 
 The heat maps visually represent the coverage of each standard across the MITRE ATT&CK for ICS tactics and techniques
 
-Please refer to : [a relative link](results/Heat%20Maps/HEATMAPS.md)
+Please refer to : [Visualization of Mapping](results/Heat%20Maps/HEATMAPS.md)
 
 ### MITRE Navigator Layers
 
