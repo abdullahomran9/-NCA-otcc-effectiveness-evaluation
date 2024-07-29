@@ -4,6 +4,17 @@ This folder contains heatmap visualizations of industrial control system (ICS) c
 
 ## Contents
 
+### NIST SP 800-82 Heatmap
+![NIST SP 800-82 Heatmap](Nist_800_82_Mappings.png)
+
+### IEC 62443 Heatmap
+![IEC 62443 Heatmap](IEC_62443_Mappings.png)
+
+### NCA OTCC Heatmap
+![NCA OTCC Heatmap](Nca_Otcc_Mappings.png)
+
+
+
 - `Nist_800_82_Mappings`: Heatmap for NIST SP 800-82 in png and svg format 
 - `IEC_62443_Mappings`: Heatmap for IEC 62443 in png and svg format 
 - `Nca_Otcc_Mappings`: Heatmap for NCA OTCC (Saudi National Cybersecurity Authority Operational Technology Cybersecurity  Controls) in png and svg format
