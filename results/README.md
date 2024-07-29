@@ -8,19 +8,15 @@ This repository contains mappings of industrial control system (ICS) cybersecuri
 
 ## Contents
 
-- Heat map visualizations (PNG images)
+- Heat map visualizations (PNG images and SVG)
 - MITRE Navigator layer files (JSON)
 - STIX mapping files (JSON)
 
 ### Heat Maps
 
-The heat maps visually represent the coverage of each standard across the MITRE ATT&CK for ICS tactics and techniques:
+The heat maps visually represent the coverage of each standard across the MITRE ATT&CK for ICS tactics and techniques
 
-- `NIST_heatmap.png`
-- `IEC62443_heatmap.png`
-- `NCA_OTCC_heatmap.png`
-
-These images provide a quick overview of which areas of the ATT&CK framework are addressed by each standard.
+Please refer to : [a relative link](results/Heat%20Maps/HEATMAPS.md)
 
 ### MITRE Navigator Layers
 
