@@ -1,0 +1,387 @@
+{
+    "name": "Nist 800 82 Mappings",
+    "versions": {
+        "navigator": "4.8.0",
+        "layer": "4.4",
+        "attack": "14.1"
+    },
+    "sorting": 3,
+    "description": "Heatmap of Nist 800 82 mappings. Scores represent the number of associated capabilities.",
+    "domain": "ics-attack",
+    "techniques": [
+        {
+            "techniqueID": "T0869",
+            "score": 1,
+            "comment": "Related to:\n•SI-4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0884",
+            "score": 2,
+            "comment": "Related to:\n•SI-4\n•SC-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0885",
+            "score": 3,
+            "comment": "Related to:\n•SI-4\n•IA-2\n•CM-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0865",
+            "score": 3,
+            "comment": "Related to:\n•SI-4\n•SI-3\n•SC-18",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0830",
+            "score": 6,
+            "comment": "Related to:\n•SI-4\n•CM-7\n•SC-8\n•IA-9\n•SI-7\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0863",
+            "score": 3,
+            "comment": "Related to:\n•SI-4\n•SI-3\n•SC-18",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0867",
+            "score": 1,
+            "comment": "Related to:\n•SI-4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0859",
+            "score": 5,
+            "comment": "Related to:\n•AC-2\n•AC-3\n•IA-5\n•SC-7\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0842",
+            "score": 1,
+            "comment": "Related to:\n•AC-2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0866",
+            "score": 5,
+            "comment": "Related to:\n•AC-2\n•SI-2\n•CM-7\n•RA-5\n•SI-13 to SI-23",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0811",
+            "score": 3,
+            "comment": "Related to:\n•AC-2\n•AC-6\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0819",
+            "score": 4,
+            "comment": "Related to:\n•AC-2\n•SI-2\n•RA-5\n•SI-13 to SI-23",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0809",
+            "score": 3,
+            "comment": "Related to:\n•AC-2\n•AC-6\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0812",
+            "score": 1,
+            "comment": "Related to:\n•AC-3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0891",
+            "score": 1,
+            "comment": "Related to:\n•AC-3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0845",
+            "score": 6,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0868",
+            "score": 6,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0857",
+            "score": 8,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SI-2\n•SC-7\n•SC-8\n•IA-9\n•SI-7\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0858",
+            "score": 5,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0800",
+            "score": 6,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0861",
+            "score": 6,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0886",
+            "score": 4,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•IA-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0839",
+            "score": 7,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SI-7\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0816",
+            "score": 7,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•CM-7\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0843",
+            "score": 7,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•SC-7\n•SC-8\n•IA-9\n•SI-7\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0871",
+            "score": 2,
+            "comment": "Related to:\n•AC-3\n•IA-2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0838",
+            "score": 3,
+            "comment": "Related to:\n•AC-3\n•IA-2\n•IA-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0821",
+            "score": 2,
+            "comment": "Related to:\n•IA-2\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0836",
+            "score": 3,
+            "comment": "Related to:\n•IA-2\n•SI-7\n•SI-10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0889",
+            "score": 2,
+            "comment": "Related to:\n•IA-2\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0822",
+            "score": 2,
+            "comment": "Related to:\n•IA-5\n•CM-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0864",
+            "score": 3,
+            "comment": "Related to:\n•SI-3\n•SI-2\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0862",
+            "score": 3,
+            "comment": "Related to:\n•SI-2\n•RA-5\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0817",
+            "score": 3,
+            "comment": "Related to:\n•SI-2\n•SC-18\n•SI-13 to SI-23",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0890",
+            "score": 2,
+            "comment": "Related to:\n•SI-2\n•SI-13 to SI-23",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0820",
+            "score": 2,
+            "comment": "Related to:\n•SI-2\n•SI-13 to SI-23",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0882",
+            "score": 1,
+            "comment": "Related to:\n•AC-6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0873",
+            "score": 2,
+            "comment": "Related to:\n•AC-6\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0881",
+            "score": 1,
+            "comment": "Related to:\n•AC-6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0872",
+            "score": 1,
+            "comment": "Related to:\n•AC-6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0893",
+            "score": 1,
+            "comment": "Related to:\n•AC-6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0849",
+            "score": 1,
+            "comment": "Related to:\n•AC-6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0853",
+            "score": 1,
+            "comment": "Related to:\n•CM-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0807",
+            "score": 1,
+            "comment": "Related to:\n•CM-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0847",
+            "score": 2,
+            "comment": "Related to:\n•CM-7\n•MP-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0855",
+            "score": 5,
+            "comment": "Related to:\n•SC-7\n•SC-8\n•IA-9\n•SI-10\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0848",
+            "score": 4,
+            "comment": "Related to:\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0806",
+            "score": 2,
+            "comment": "Related to:\n•SC-7\n•IA-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0856",
+            "score": 4,
+            "comment": "Related to:\n•SC-7\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0860",
+            "score": 3,
+            "comment": "Related to:\n•SC-8\n•IA-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0832",
+            "score": 3,
+            "comment": "Related to:\n•SC-8\n•CP-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0831",
+            "score": 3,
+            "comment": "Related to:\n•SC-8\n•CP-9\n•SC-20 to SC-51",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0813",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0827",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0892",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0826",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0815",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0828",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0829",
+            "score": 1,
+            "comment": "Related to:\n•CP-9",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0851",
+            "score": 1,
+            "comment": "Related to:\n•SI-7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0874",
+            "score": 1,
+            "comment": "Related to:\n•SI-7",
+            "metadata": []
+        }
+    ],
+    "gradient": {
+        "colors": [
+            "#ffe766",
+            "#ffaf66"
+        ],
+        "minValue": 1,
+        "maxValue": 8
+    }
+}

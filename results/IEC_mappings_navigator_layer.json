@@ -1,0 +1,459 @@
+{
+    "name": "IEC 62443 Mappings",
+    "versions": {
+        "navigator": "4.8.0",
+        "layer": "4.4",
+        "attack": "14.1"
+    },
+    "sorting": 3,
+    "description": "Heatmap of IEC 62443 mappings. Scores represent the number of associated capabilities.",
+    "domain": "ics-attack",
+    "techniques": [
+        {
+            "techniqueID": "T0853",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0890",
+            "score": 5,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-4-2:2019 - CR 3.10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0820",
+            "score": 5,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-4-2:2019 - CR 3.10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0866",
+            "score": 11,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-4-2:2019 - CR 3.10\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0817",
+            "score": 7,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 2.4\n•IEC 62443-4-2:2019 - HDR 2.4\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-4-2:2019 - CR 3.10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0819",
+            "score": 9,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.4\n•IEC 62443-4-2:2019 - CR 5.4\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-4-2:2019 - CR 3.10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0843",
+            "score": 12,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0839",
+            "score": 15,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-4-2:2019 - CR 3.14\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0855",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 3.5\n•IEC 62443-3-3:2013 - SR 3.6\n•IEC 62443-4-2:2019 - CR 3.5\n•IEC 62443-4-2:2019 - CR 3.6\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0848",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0859",
+            "score": 14,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.5\n•IEC 62443-4-2:2019 - CR 1.5\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-3-3:2013 - SR 1.11\n•IEC 62443-4-2:2019 - CR 1.11\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 1.7\n•IEC 62443-4-2:2019 - CR 1.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0868",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0861",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0884",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0806",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0845",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0816",
+            "score": 12,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0856",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0857",
+            "score": 16,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-4-2:2019 - CR 3.14\n•IEC 62443-4-2:2019 - CR 3.10\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0800",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0886",
+            "score": 12,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.5\n•IEC 62443-4-2:2019 - CR 1.5\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0863",
+            "score": 8,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.4\n•IEC 62443-4-2:2019 - HDR 2.4\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0865",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.4\n•IEC 62443-4-2:2019 - HDR 2.4\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0836",
+            "score": 8,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.5\n•IEC 62443-3-3:2013 - SR 3.6\n•IEC 62443-4-2:2019 - CR 3.5\n•IEC 62443-4-2:2019 - CR 3.6\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0869",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0838",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0822",
+            "score": 12,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 1.5\n•IEC 62443-4-2:2019 - CR 1.5\n•IEC 62443-3-3:2013 - SR 1.11\n•IEC 62443-4-2:2019 - CR 1.11\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7\n•IEC 62443-3-3:2013 - SR 1.7\n•IEC 62443-4-2:2019 - CR 1.7\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0883",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0842",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 1.7\n•IEC 62443-4-2:2019 - CR 1.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0830",
+            "score": 12,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0805",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0864",
+            "score": 9,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-4-2:2019 - CR 3.10\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0881",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0802",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0878",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0885",
+            "score": 8,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0858",
+            "score": 10,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 5.1\n•IEC 62443-4-2:2019 - CR 5.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0874",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0867",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 6.2\n•IEC 62443-4-2:2019 - CR 6.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0812",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 1.5\n•IEC 62443-4-2:2019 - CR 1.5",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0891",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0871",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0894",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0834",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0807",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0849",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - CR 3.2\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0804",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0888",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0846",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0803",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0892",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.5\n•IEC 62443-4-2:2019 - CR 1.5\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0811",
+            "score": 8,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0809",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.3\n•IEC 62443-4-2:2019 - CR 1.3\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0821",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0889",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.1\n•IEC 62443-4-2:2019 - CR 1.1\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0851",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0862",
+            "score": 3,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-4-2:2019 - CR 3.10",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0873",
+            "score": 6,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 3.4\n•IEC 62443-4-2:2019 - CR 3.4\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0860",
+            "score": 8,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 1.2\n•IEC 62443-4-2:2019 - CR 1.2\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1\n•IEC 62443-3-3:2013 - SR 1.6\n•IEC 62443-4-2:2019 - CR 1.6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0887",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 1.6\n•IEC 62443-4-2:2019 - CR 1.6",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0847",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7\n•IEC 62443-3-3:2013 - SR 3.2\n•IEC 62443-4-2:2019 - EDR 3.2",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0895",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.7\n•IEC 62443-4-2:2019 - CR 7.7",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0893",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0882",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 4.1\n•IEC 62443-4-2:2019 - CR 4.1\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0813",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0831",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0827",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0826",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0815",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0832",
+            "score": 4,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3\n•IEC 62443-3-3:2013 - SR 3.1\n•IEC 62443-4-2:2019 - CR 3.1",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0828",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0829",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 7.3\n•IEC 62443-4-2:2019 - CR 7.3",
+            "metadata": []
+        },
+        {
+            "techniqueID": "T0872",
+            "score": 2,
+            "comment": "Related to:\n•IEC 62443-3-3:2013 - SR 2.1\n•IEC 62443-4-2:2019 - CR 2.1",
+            "metadata": []
+        }
+    ],
+    "gradient": {
+        "colors": [
+            "#ffe766",
+            "#ffaf66"
+        ],
+        "minValue": 2,
+        "maxValue": 16
+    }
+}
