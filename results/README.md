@@ -48,9 +48,7 @@ These mappings can be used to:
 - Align security practices with the MITRE ATT&CK for ICS framework
 - Enhance threat modeling and risk assessment for ICS environments
 
-## Contributing
 
-Contributions to improve or expand these mappings are welcome. Please submit a pull request with your proposed changes.
 
 
 ## Acknowledgements
