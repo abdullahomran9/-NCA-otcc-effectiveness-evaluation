@@ -87,4 +87,3 @@ Please feel free to submit issues or pull requests with suggestions and improvem
 
 ---
 
-Thank you for your interest in this project. For any questions or further information, please contact [Your Name](mailto:your-email@example.com).
