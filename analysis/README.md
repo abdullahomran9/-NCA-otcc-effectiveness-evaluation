@@ -15,7 +15,7 @@ This repository contains a case study that evaluates the implementation and effe
 
 ## Overview
 
-
+![Simulated Network](OTCC%20Controls3.drawio.png)
 
 
 As industrial control systems (ICS) become increasingly interconnected, they face heightened cybersecurity threats. This case study explores the implementation of specific OTCC controls in a virtual ICS environment, focusing on network management, identity and access management (IAM), security information and event management (SIEM), and system protection.
