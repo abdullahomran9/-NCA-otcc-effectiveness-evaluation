@@ -15,6 +15,9 @@ This repository contains a case study that evaluates the implementation and effe
 
 ## Overview
 
+
+
+
 As industrial control systems (ICS) become increasingly interconnected, they face heightened cybersecurity threats. This case study explores the implementation of specific OTCC controls in a virtual ICS environment, focusing on network management, identity and access management (IAM), security information and event management (SIEM), and system protection.
 
 ## Objectives
@@ -37,6 +40,12 @@ The virtual ICS environment is set up using Oracle VM VirtualBox and includes th
 
 - The simulation is divided into three parts due to computational constraints.
 - This setup represents a simplified version of an ICS network.
+
+### Network Diagram
+
+Below is the network diagram illustrating the setup of the virtual ICS environment:
+
+![Network Diagram](OTCC%20Controls3.drawio.png)
 
 ## OTCC Controls Implemented
 
@@ -63,6 +72,8 @@ The case study demonstrates that while the OTCC controls provide a foundational 
 ## Files in this Repository
 
 - **NCA_OTCC.xlsx:** Contains all OTCC controls in spreadsheet format.
+- **OTCC Controls3.drawio.png:** Visual representation of the virtual ICS environment.
+- **openplc_config.xml:** Sample configuration file for the OpenPLC used in the ICS setup.
 
 ## Contributing
 
@@ -77,4 +88,3 @@ Please feel free to submit issues or pull requests with suggestions and improvem
 ---
 
 Thank you for your interest in this project. For any questions or further information, please contact [Your Name](mailto:your-email@example.com).
-
