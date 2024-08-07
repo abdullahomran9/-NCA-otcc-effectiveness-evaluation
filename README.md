@@ -30,6 +30,13 @@ The research employs a mixed-methods approach, combining qualitative comparative
 - Simulated ICS environment for practical evaluation
 - Statistical analysis of control coverage and effectiveness
 
+
+
+
+![Software](Python-BasedControlMap.png)
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
