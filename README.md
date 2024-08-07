@@ -14,10 +14,10 @@ The main objectives of this research are:
 
 ## Repository Structure
 
-- `/docs`: Documentation and research papers
 - `/analysis`: Jupyter notebooks and scripts for data analysis
 - `/data`: Datasets and mappings
 - `/results`: Visualizations and final analysis outputs
+- `/docs`: Documentation and research papers (not done yet ) 
 
 ## Methodology
 
