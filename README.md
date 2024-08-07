@@ -21,6 +21,8 @@ The main objectives of this research are:
 
 ## Methodology
 
+![Methodology](CopyofColorfulProcessPieChart.png)
+
 The research employs a mixed-methods approach, combining qualitative comparative analysis with quantitative mapping techniques. Key components include:
 
 - Systematic review of cybersecurity standards
